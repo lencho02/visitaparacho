@@ -1,6 +1,6 @@
 {
-  "name":"Prueba PWA",
-  "short_name": "PWA",
+  "name":"Visita Paracho",
+  "short_name": "Visita Paracho",
   "description":"Aplicación de prueba PWA creada por Rebrin",
   "background_color":"#FFF",
   "theme_color": "#FB314B",
