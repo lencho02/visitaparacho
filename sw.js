@@ -15,12 +15,12 @@ var UrlsToCache=[
   './images/globo.jpg',
   './images/paracho-1.png',
   './images/paracho.png',
-  './images/favicon-1024.png',
+  './images/favicon-1024.PNG',
   './images/paracho_danza_viejitos.jpg',
   './images/parachodeverduzco15.png',
   './images/favicon-512.PNG',
   './images/favicon-384.PNG',
-  './images/portada.png',
+  './images/portada.jpg',
 ];
 
 //evento install (de instalación )
