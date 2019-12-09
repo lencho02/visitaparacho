@@ -18,8 +18,8 @@ var UrlsToCache=[
   './images/favicon-1024.png',
   './images/paracho_danza_viejitos.jpg',
   './images/parachodeverduzco15.png',
-  './images/favicon-512.PNG',
-  './images/favicon-384.PNG',
+  './images/favicon-512.png',
+  './images/favicon-384.png',
   './images/portada.png',
 ];
 
