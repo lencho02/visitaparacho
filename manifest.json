@@ -3,7 +3,7 @@
   "short_name": "Visita Paracho",
   "description":"Aplicación de prueba PWA creada por Rebrin",
   "background_color":"#FFF",
-  "theme_color": "#FB314B",
+  "theme_color": "#3892A9",
   "orientation":"portrait",
   "display":"standalone",
   "start_url":"./index.html?utm_source=web_app_manifest",
