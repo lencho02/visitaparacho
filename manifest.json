@@ -11,17 +11,17 @@
   "lang":"es-MX",
   "icons":[
     {
-      "src":"./images/favicon-1024.png",
+      "src":"./images/favicon-1024.PNG",
       "sizes":"1024x1024",
       "type":"image/png"
     },
     {
-      "src":"./images/favicon-512.png",
+      "src":"./images/favicon-512.PNG",
       "sizes":"512x512",
       "type":"image/png"
     },
     {
-      "src":"./images/favicon-384.png",
+      "src":"./images/favicon-384.PNG",
       "sizes":"384x384",
       "type":"image/png"
     }
